@@ -6,13 +6,30 @@ The user must also input the number of prefixes followed by the prefixes.
 Outputs at most the top 10 frequent words that start with a given prefix.
 
 Example input
+
+
 3
+
+
 223 hi
+
+
 123 hon
+
+
 456 hix
+
+
 1
+
+
 hi
 
+
 Output
+
+
 hix
+
+
 hi
